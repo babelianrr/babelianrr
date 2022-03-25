@@ -2,7 +2,7 @@
 ```
 "profile": {
   "first_name": "Rajawali Ramadhan",
-  "surname": "Babelian",
+  "last_name": "Babelian",
   "date_of_birth": "1998-12-26",
   "mbti_type": "INFP-T",
   "location": {
@@ -10,7 +10,9 @@
     "city": "Jakarta"
   },
   "job_status": "Unemployed" || "Looking for"
-  "job_position": "Fullstack Developer" || "Backend Developer",
+  "job_position": {
+    "expected": "Fullstack Developer" || "Backend Developer"
+  },
   "skilled_lang": [
     "programming_lang": [
       "PHP Native",
