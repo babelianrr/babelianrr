@@ -2,7 +2,8 @@
 ```
 {
   "name": {
-    "first_name": "Rajawali Ramadhan",
+    "first_name": "Rajawali",
+    "middle_name": "Ramadhan",
     "last_name": "Babelian"
   },
   "birth": {
@@ -10,7 +11,6 @@
     "birth_date": "1998-12-26"
   },
   "personality": {
-    "general": "Introverted",
     "mbti_type": "INFP-T"
   },
   "location": {
@@ -25,6 +25,7 @@
   },
   "employment": {
     "job_status": ["Unemployed", "Looking for"],
+    "workplace": null,
     "job_position": {
       "expected": ["Fullstack Developer", "Backend Developer"]
     }
@@ -48,10 +49,14 @@
     ]
   },
   "contact_me": {
-    "email": "thebabelian@gmail.com",
+    "email": [
+      "thebabelian@gmail.com",
+      "inquiry@thebabelianchannel.site"
+    ],
     "linked_in": "https://www.linkedin.com/in/babelianrr",
     "instagram": "@babelianrr",
-    "twitter": "@babelianrr"
+    "twitter": "@babelianrr",
+    "kakaotalk": "babelianrr"
   },
   "visit_me": {
     "website": "https://www.thebabelianchannel.site",
