@@ -1,6 +1,6 @@
 # My Profile
 ```
-"profile": {
+{
   "first_name": "Rajawali Ramadhan",
   "last_name": "Babelian",
   "date_of_birth": "1998-12-26",
@@ -9,7 +9,7 @@
     "country": "Indonesia",
     "city": "Jakarta"
   },
-  "job_status": "Unemployed" || "Looking for"
+  "job_status": "Unemployed" || "Looking for",
   "job_position": {
     "expected": "Fullstack Developer" || "Backend Developer"
   },
