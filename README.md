@@ -11,7 +11,7 @@
     "birth_date": "1998-12-26"
   },
   "personality": {
-    "mbti_type": "INFP-T"
+    "mbti_type": "INTP-T"
   },
   "location": {
     "hometown": {
@@ -33,19 +33,15 @@
   "skilled_lang": {
     "programming_lang": [
       "PHP Native",
-      "PHP/CodeIgniter",
+      "CodeIgniter",
       "JavaScript",
-      "React.JS"
+      "React.JS",
+      "Node.JS"
     ],
-    "speaking_lang": [
-      "Bahasa Indonesia",
-      "English",
-      "한국어"
-    ],
-    "reading_lang": [
-      "Bahasa Indonesia",
-      "English",
-      "한국어"
+    "real_lang": [
+        "Bahasa Indonesia",
+        "English",
+        "한국어"
     ]
   },
   "contact_me": {
