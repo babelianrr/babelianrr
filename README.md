@@ -11,7 +11,8 @@
     "birth_date": "1998-12-26"
   },
   "personality": {
-    "mbti_type": "INTP-T"
+    "mbti_type": "INTP-T",
+    "enneagram": "6w7"
   },
   "location": {
     "hometown": {
@@ -24,11 +25,9 @@
     }
   },
   "employment": {
-    "job_status": ["Unemployed", "Looking for"],
-    "workplace": null,
-    "job_position": {
-      "expected": ["Fullstack Developer", "Backend Developer"]
-    }
+    "job_status": "Employed",
+    "workplace": "PT. Bisnis Integrasi Global",
+    "job_position": "Web Developer"
   },
   "skilled_lang": {
     "programming_lang": [
