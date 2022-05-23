@@ -46,7 +46,8 @@
   "contact_me": {
     "email": [
       "thebabelian@gmail.com",
-      "inquiry@thebabelianchannel.site"
+      "inquiry@thebabelianchannel.site",
+      "rajawali.babelian@big-solution.net"
     ],
     "linked_in": "https://www.linkedin.com/in/babelianrr",
     "instagram": "babelianrr",
