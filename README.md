@@ -12,7 +12,7 @@
   },
   "personality": {
     "mbti_type": "INTP-T",
-    "enneagram": "6w7"
+    "enneagram": "6w5"
   },
   "location": {
     "hometown": {
@@ -49,7 +49,7 @@
       "inquiry@thebabelianchannel.site"
     ],
     "linked_in": "https://www.linkedin.com/in/babelianrr",
-    "instagram": "@babelianrr",
+    "instagram": "babelianrr",
     "twitter": "@babelianrr",
     "kakaotalk": "babelianrr"
   },
