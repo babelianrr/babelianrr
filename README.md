@@ -11,7 +11,7 @@
     "birth_date": "1998-12-26"
   },
   "personality": {
-    "mbti_type": "INTP-T",
+    "mbti_type": "INTP",
     "enneagram": "6w5"
   },
   "location": {
@@ -34,6 +34,7 @@
       "PHP Native",
       "CodeIgniter",
       "JavaScript",
+      "Typescript",
       "React.JS",
       "Node.JS"
     ],
@@ -45,9 +46,7 @@
   },
   "contact_me": {
     "email": [
-      "thebabelian@gmail.com",
-      "inquiry@thebabelianchannel.site",
-      "rajawali.babelian@big-solution.net"
+      "thebabelian@gmail.com"
     ],
     "linked_in": "https://www.linkedin.com/in/babelianrr",
     "instagram": "babelianrr",
@@ -56,7 +55,7 @@
   },
   "visit_me": {
     "website": "https://www.thebabelianchannel.site",
-    "youtube": "https://www.youtube.com/c/TheBabelianChannel"
+    "youtube": "https://www.youtube.com/c/Babelian"
   }
 }
 ```
