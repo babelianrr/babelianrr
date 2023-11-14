@@ -12,7 +12,8 @@
   },
   "personality": {
     "mbti_type": "INTP",
-    "enneagram": "6w5"
+    "enneagram": "6w5",
+    "disc": "I/SC"
   },
   "location": {
     "hometown": {
