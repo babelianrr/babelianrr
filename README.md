@@ -26,20 +26,25 @@
     }
   },
   "employment": {
-    "job_status": "Employed",
-    "workplace": "PT. Bisnis Integrasi Global",
-    "job_position": "Fullstack Web Developer",
-    "start_period": "2022-05-09",
-    "end_period": "2023-10-31"
+    "job_status": "Unemployed",
+    "current_workplace": null,
+    "previous_workplace": {
+        "workplace": "PT. Bisnis Integrasi Global",
+        "job_position": "Fullstack Web Developer",
+        "start_period": "2022-05-09",
+        "end_period": "2023-10-31"
+    }
   },
   "skilled_lang": {
     "programming_lang": [
       "PHP Native",
       "CodeIgniter",
+      "Laravel",
       "JavaScript",
       "Typescript",
       "React.JS",
-      "Node.JS"
+      "Node.JS",
+      "Next.JS"
     ],
     "real_lang": [
         "Bahasa Indonesia",
