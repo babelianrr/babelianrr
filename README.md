@@ -57,7 +57,7 @@
       "thebabelian@gmail.com"
     ],
     "linked_in": "https://www.linkedin.com/in/babelianrr",
-    "instagram": "babelianrr",
+    "instagram": "babeliantbc",
     "twitter": "@babelianrr",
     "kakaotalk": "babelianrr"
   },
