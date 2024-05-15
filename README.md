@@ -28,12 +28,17 @@
   "employment": {
     "job_status": "Unemployed",
     "current_workplace": null,
-    "previous_workplace": {
+    "previous_workplace": [{
         "workplace": "PT. Bisnis Integrasi Global",
         "job_position": "Fullstack Web Developer",
         "start_period": "2022-05-09",
         "end_period": "2023-10-31"
-    }
+    }, {
+        "workplace": "PT. Bisnis Integrasi Global",
+        "job_position": "Freelance Web Developer",
+        "start_period": "2024-02-28",
+        "end_period": "2024-05-31"
+    }]
   },
   "skilled_lang": {
     "programming_lang": [
@@ -58,7 +63,7 @@
     ],
     "linked_in": "https://www.linkedin.com/in/babelianrr",
     "instagram": "babeliantbc",
-    "twitter": "@babelianrr",
+    "twitter": "babelianrr",
     "kakaotalk": "babelianrr"
   },
   "visit_me": {
