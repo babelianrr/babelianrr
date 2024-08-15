@@ -67,7 +67,6 @@
     "kakaotalk": "babelianrr"
   },
   "visit_me": {
-    "website": "https://www.thebabelianchannel.site",
     "youtube": "https://www.youtube.com/c/Babelian"
   }
 }
